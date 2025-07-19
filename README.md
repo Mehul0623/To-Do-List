@@ -23,9 +23,9 @@ Users can add, delete, and save tasks locally using browser localStorage.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mehul0623/To-Do-List.git
    
-2. Open index.html in your browser.
+2. Open Todo list.html in your browser.
 
 # Notes
 
